@@ -3,13 +3,6 @@ nav{
     background-color: blue;
     color: white;
 }
-footer{
-    background-color: green;
-    color: white;
-}
-main {
-        color: white;
-}
-form{
-    border: 1px solid red;
+a{
+    text-decoration: none;
 }
