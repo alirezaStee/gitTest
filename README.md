@@ -47,3 +47,7 @@ unorderd list :
 ## iamge
 
 ![image-test](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)
+
+
+## badgea 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
