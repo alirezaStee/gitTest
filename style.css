@@ -10,3 +10,6 @@ footer{
 main {
         color: white;
 }
+form{
+    border: 1px solid red;
+}
